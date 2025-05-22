@@ -124,3 +124,8 @@ function toggleStatusTaskWith(taskId) {
   }
   addDataToLocalStorageFrom(arrayOfTasks);
 }
+input.addEventListener("keydown", function (e) {
+  if (e.key === "Enter") {
+    submit.click();
+  }
+});
