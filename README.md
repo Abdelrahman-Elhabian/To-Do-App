@@ -17,7 +17,8 @@
 
 ## 📷 Preview
 
-![screenshot-placeholder](https://via.placeholder.com/500x300?text=To-Do+App+Screenshot)
+![image](https://github.com/user-attachments/assets/c8fa03cb-f353-481b-b3e2-41bc2a8d9343)
+
 
 ## 📌 Usage
 
