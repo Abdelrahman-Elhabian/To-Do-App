@@ -5,7 +5,7 @@ let tasksDiv = document.querySelector(".tasks");
 // Empty Array To Store The Tasks
 let arrayOfTasks = [];
 
-// Check if Theres Tasks In Local Storage
+// Check if there are Tasks In Local Storage
 if (localStorage.getItem("tasks")) {
   arrayOfTasks = JSON.parse(localStorage.getItem("tasks"));
 }
