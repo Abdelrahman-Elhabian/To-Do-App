@@ -1,4 +1,4 @@
-# To-Do-App
+# To-Do-App :memo:
 Stay organized and boost your productivity with this sleek and simple To-Do App! Add tasks, mark them as done, and keep your list clean with one-click delete — all stored safely in your browser: no logins, no fuss, just pure focus.
 ## 💡 How It Works
 
